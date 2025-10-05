@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InkRealm Mirror</string>
+    <string name="loading_message">Loading InkRealm...</string>
+    <string name="subtitle_message">Mirroring inkrealm.info/1991</string>
+    <string name="connection_error">Connection error. Please check your internet.</string>
+    <string name="no_internet">No internet connection. Please check your network settings.</string>
+    <string name="refreshing">Refreshing content...</string>
+</resources>
