@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.InkRealmMirror" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#000000</item>
+        <item name="colorPrimaryVariant">#333333</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#FFD700</item>
+        <item name="colorSecondaryVariant">#FFA500</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:windowBackground">#000000</item>
+    </style>
+
+    <style name="Theme.InkRealmMirror.Loading" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">#000000</item>
+        <item name="android:statusBarColor">#000000</item>
+    </style>
+</resources>
